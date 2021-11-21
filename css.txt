@@ -1,1 +1,1 @@
-Cascading style sheet
+Cascading style sheet used fior styling html elements
